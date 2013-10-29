@@ -100,6 +100,69 @@ static char launchNotificationKey;
 
 // The accessors use an Associative Reference since you can't define a iVar in a category
 // http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
 - (NSMutableArray *)launchNotification
 {
    return objc_getAssociatedObject(self, &launchNotificationKey);
@@ -116,4 +179,286 @@ static char launchNotificationKey;
     [super dealloc];
 }
 
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
+
+// The accessors use an Associative Reference since you can't define a iVar in a category
+// http://developer.apple.com/library/ios/#documentation/cocoa/conceptual/objectivec/Chapters/ocAssociativeReferences.html
 @end
